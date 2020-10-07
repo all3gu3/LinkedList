@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1602061353 source:c:\users\allegue\desktop\folders\guorcs\linkedlist\main.cpp
+	<bits/stdc++.h>
+	"Node.h"
+	"LinkedList.h"
+
+1602045177 c:\users\allegue\desktop\folders\guorcs\linkedlist\include\node.h
+	<bits/stdc++.h>
+
+1602060641 c:\users\allegue\desktop\folders\guorcs\linkedlist\include\linkedlist.h
+	"Node.h"
+	<bits/stdc++.h>
+
+1602060142 source:c:\users\allegue\desktop\folders\guorcs\linkedlist\src\node.cpp
+	"Node.h"
+	<bits/stdc++.h>
+
+1602060843 source:c:\users\allegue\desktop\folders\guorcs\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<bits/stdc++.h>
+
